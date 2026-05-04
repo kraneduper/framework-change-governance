@@ -112,7 +112,7 @@ Designed primarily for NIST CSF 2.0, the process is framework-agnostic and exten
 - ISO 27001 / 27002
 - NIST SP 800-53
 - OWASP SAMM
-- NIST Cybersecurity Risk Integration (CRI) Profile
+- NIST Cyber Risk Institute (CRI) Profile
 
 ---
 
